@@ -343,7 +343,7 @@
 #es-nasic.es-nasic .es-footer__logo {
   width: 150px;
 }
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 700px) {
   #es-nasic.es-nasic .es-kv {
     background-image: url(./img/kv-shadow.png);
     flex-direction: row;
